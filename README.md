@@ -1,2 +1,2 @@
 # Bone-Fractures
-made a bone fracture classifier
+made a bone fracture classifier using fastai and pytorch libraries. achieved a final accuracy of 99.81%. data was used from kaggle.com. ran model for 10 epochs, and 3 frozen epochs. achieved total training loss of 0.002 and validation loss of 0.004. confusion matrix is also presented showing when predictions were inaccurate. it had a total of 2 innaccurate guesses throughout training the model. 
